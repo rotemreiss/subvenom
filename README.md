@@ -31,9 +31,17 @@ cat domains.txt | ./subvenom.sh
 
 On both cases the results will be saved as `{domain}-domains.txt`
 
+---
+
 ## Contribution
 Feel free to add more scanners to this tool to make it even more robust!
 
 ## TODO
 - Add some error handling
 - Add some options
+
+---
+
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
